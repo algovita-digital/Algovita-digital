@@ -44,7 +44,7 @@ export default function Header() {
         </nav>
 
         <div className="flex shrink-0 items-center gap-1.5 md:gap-2">
-          <Button href="#contact" variant="filled" size="sm" className="!hidden shrink-0 whitespace-nowrap !px-3 min-[360px]:!inline-flex md:!px-4">
+          <Button href="#contact" variant="filled" size="sm" className="!hidden shrink-0 whitespace-nowrap !px-3 min-[420px]:!inline-flex md:!px-4">
             Get in Touch
           </Button>
           <button
