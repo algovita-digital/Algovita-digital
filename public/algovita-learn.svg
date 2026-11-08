@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1581" height="943" viewBox="0 0 1581 943" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <clipPath id="round"><rect width="1581" height="943" rx="32" ry="32"/></clipPath>
+    <radialGradient id="glow" cx="0.5" cy="1" r="0.5">
+      <stop offset="0" stop-color="#fb923c" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#fb923c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1581" height="943" fill="#ffffff"/>
+    <ellipse cx="790.5" cy="943" rx="190" ry="48" fill="url(#glow)"/>
+
+    <!-- Navbar -->
+    <g transform="translate(-60,0)"><path d="M126 32 Q126 47 141 47 Q126 47 126 62 Q126 47 111 47 Q126 47 126 32 Z" fill="#7e2fe0"/>
+    <text x="157" y="57" font-size="26.5" font-weight="600" fill="#111827" letter-spacing="-0.4">Algovita Learn</text></g>
+    <g font-size="22" font-weight="500" fill="#111827">
+      <text x="523" y="56">Courses</text>
+      <text x="655" y="56">Features</text>
+      <text x="790" y="56">Stories</text>
+      <text x="908" y="56">FAQ</text>
+      <text x="1216" y="56">Log in</text>
+    </g>
+    <rect x="1311" y="19" width="222" height="58" rx="14" fill="#7e2fe0"/>
+    <text x="1422" y="56" font-size="22" font-weight="600" fill="#ffffff" text-anchor="middle">Sign up for free</text>
+    <rect x="0" y="96" width="1581" height="1" fill="#e5e7eb"/>
+
+    <g transform="translate(-169.5,0)">
+    <!-- Hero -->
+    <text x="960" y="237" font-size="19" font-weight="600" fill="#7e2fe0" text-anchor="middle" letter-spacing="1.6">TECHNICAL LEARNING PLATFORM BY ALGOVITA DIGITAL</text>
+    <g font-size="82" font-weight="700" fill="#111827" text-anchor="middle" letter-spacing="-1.7">
+      <text x="960" y="339">Learn the skills that get you</text>
+      <text x="960" y="423">hired</text>
+    </g>
+    <g font-size="27" fill="#6b7280" text-anchor="middle">
+      <text x="960" y="501">Full-stack development, AI automation, data science and cloud</text>
+      <text x="960" y="547">engineering. Live mentors, real projects and a dashboard that keeps you</text>
+      <text x="960" y="593">moving.</text>
+    </g>
+
+    <!-- Buttons -->
+    <rect x="653" y="656" width="294" height="72" rx="16" fill="#7e2fe0"/>
+    <path d="M701 683 Q701 692 710 692 Q701 692 701 701 Q701 692 692 692 Q701 692 701 683 Z" fill="#ffffff"/>
+    <text x="725" y="700" font-size="24" font-weight="600" fill="#ffffff">Explore courses</text>
+    <rect x="965.5" y="655.5" width="301" height="73" rx="16" fill="#ffffff" stroke="#111827" stroke-width="1.2"/>
+    <text x="1116" y="700" font-size="24" font-weight="500" fill="#111827" text-anchor="middle">Create free account</text>
+
+    <!-- Social proof -->
+    <g stroke="#ffffff" stroke-width="3">
+      <circle cx="679" cy="807" r="27" fill="#b57cf0"/>
+      <circle cx="721" cy="807" r="27" fill="#c9a2f5"/>
+      <circle cx="763" cy="807" r="27" fill="#8b2fe0"/>
+      <circle cx="805" cy="807" r="27" fill="#5b2399"/>
+    </g>
+    <g font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">
+      <text x="679" y="815">A</text><text x="721" y="815">M</text>
+      <text x="763" y="815">N</text><text x="805" y="815">R</text>
+    </g>
+    <polygon points="864.00,797.50 866.35,803.76 873.04,804.06 867.80,808.24 869.58,814.69 864.00,811.00 858.42,814.69 860.20,808.24 854.96,804.06 861.65,803.76" fill="#f59e0b"/><polygon points="888.00,797.50 890.35,803.76 897.04,804.06 891.80,808.24 893.58,814.69 888.00,811.00 882.42,814.69 884.20,808.24 878.96,804.06 885.65,803.76" fill="#f59e0b"/><polygon points="912.00,797.50 914.35,803.76 921.04,804.06 915.80,808.24 917.58,814.69 912.00,811.00 906.42,814.69 908.20,808.24 902.96,804.06 909.65,803.76" fill="#f59e0b"/><polygon points="936.00,797.50 938.35,803.76 945.04,804.06 939.80,808.24 941.58,814.69 936.00,811.00 930.42,814.69 932.20,808.24 926.96,804.06 933.65,803.76" fill="#f59e0b"/><polygon points="960.00,797.50 962.35,803.76 969.04,804.06 963.80,808.24 965.58,814.69 960.00,811.00 954.42,814.69 956.20,808.24 950.96,804.06 957.65,803.76" fill="#f59e0b"/>
+    <text x="982" y="814" font-size="21.5" font-weight="500" fill="#111827">Learn with mentors who ship</text>
+</g>
+  </g>
+</svg>
